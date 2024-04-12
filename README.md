@@ -4,7 +4,7 @@ This project is a simple slot machine game implemented in JavaScript. It allows 
 
 ## Motivation
 
-As a beginner, I attempted this project to improve my JavaScript skills and gain experience in building interactive applications. This project taught me the significance of dividing complex problems into manageable chunks and implementing solutions step by step. Special thanks to Tech With Tim for inspiring this project!
+As a beginner, I attempted this project to improve my JavaScript skills and gain experience in building interactive applications. This project taught me the significance of dividing complex problems into manageable chunks and implementing solutions step by step. Special thanks to Tech With Tim for this project inspiration!
 
 ## Features
 
